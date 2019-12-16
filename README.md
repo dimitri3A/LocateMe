@@ -35,6 +35,8 @@ Pour enfin, arriver à la rédaction de votre message de positionnement ou pas.
 
 
 
+<img width="191" alt="Capture4" src="https://user-images.githubusercontent.com/47142356/70948594-11723980-205c-11ea-8b20-fbb05192171b.PNG">
+
 
 
 
