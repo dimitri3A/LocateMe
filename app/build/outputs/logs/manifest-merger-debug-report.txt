@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\81e3af7598dfcbfafa918a21d07253fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2fb807c1fa0fa87f45ef9f36f5feb794\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:17:1-38:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\57d8b1d4754c69a7c9a8f76266272d7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0d500c5315eac243852c62053eec9571\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7c7c6fb36a8584a469b593d072cb7649\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\017b13e9992367c0a70c787f049de200\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c15018ed1faef1c8652ecab2815e575d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d978b93af902ee06c08c952db4e419d7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\451bbf01b0eb62be119ba677c4cd136c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\510603fe9bbeaca3c7fc777d9a17bf40\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5c7cf2dabce6143f84474fd92a91bfcc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1330f81d00f3967524914a41f8704250\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\23e671a5170c7df58ceae60116efa9d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a57eb098474133aa13a7fc2745b98ba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\70d359f7dbb7481045dac383e4f7c3a1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f14310fe454a173a96d038554a7bf950\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c801d1102ae41b93c59003fb046e30ff\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7fbabfa5ef9223816fa07a786a29b72b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cdb9c0dfb48214e84ca6f8b78acd303d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\021cfa96271057856517285e99ead375\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0b72713fc6d6ab537c082dbe7bab1244\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eaae20800450a8070c36a7f0c52f9837\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1fb8d7d6d0e8fe4793443d85f675b67b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\20633a23d8cd7af34fb13a015ae09a2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\286daa05e0c8a204e8d696a43ef21eac\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b409f22f7d42a3b078384c0252b677fb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1844b234aef3648aa9c9c3ad2b393d4a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b50940c34c50b06942596f5af573afa0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a67e7c8b46a1b587042e4b5b7500ab7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a80ce22b972e860c48a33e6555b8d5ad\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.READ_SMS
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:10:5-72
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:10:22-69
+application
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:12:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2fb807c1fa0fa87f45ef9f36f5feb794\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2fb807c1fa0fa87f45ef9f36f5feb794\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\017b13e9992367c0a70c787f049de200\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\017b13e9992367c0a70c787f049de200\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c15018ed1faef1c8652ecab2815e575d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c15018ed1faef1c8652ecab2815e575d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cdb9c0dfb48214e84ca6f8b78acd303d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cdb9c0dfb48214e84ca6f8b78acd303d\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\021cfa96271057856517285e99ead375\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\021cfa96271057856517285e99ead375\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cdb9c0dfb48214e84ca6f8b78acd303d\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:14:9-37
+	android:allowBackup
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.example.neino.locateme.AccueilLocateMe
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:19:9-25:20
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:19:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:23:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:27:9-29:71
+	android:value
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:29:13-68
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:28:13-58
+activity#com.example.neino.locateme.Locate
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:31:9-44
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:31:19-41
+activity#com.example.neino.locateme.Contacts
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:32:9-46
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:32:19-43
+activity#com.example.neino.locateme.Message
+ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:33:9-54
+	android:name
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml:33:19-42
+uses-sdk
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\81e3af7598dfcbfafa918a21d07253fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\81e3af7598dfcbfafa918a21d07253fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2fb807c1fa0fa87f45ef9f36f5feb794\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\2fb807c1fa0fa87f45ef9f36f5feb794\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\57d8b1d4754c69a7c9a8f76266272d7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0.aar\57d8b1d4754c69a7c9a8f76266272d7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0d500c5315eac243852c62053eec9571\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\0d500c5315eac243852c62053eec9571\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7c7c6fb36a8584a469b593d072cb7649\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\7c7c6fb36a8584a469b593d072cb7649\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\017b13e9992367c0a70c787f049de200\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-tasks-16.0.1.aar\017b13e9992367c0a70c787f049de200\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c15018ed1faef1c8652ecab2815e575d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c15018ed1faef1c8652ecab2815e575d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d978b93af902ee06c08c952db4e419d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\d978b93af902ee06c08c952db4e419d7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\451bbf01b0eb62be119ba677c4cd136c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\451bbf01b0eb62be119ba677c4cd136c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\510603fe9bbeaca3c7fc777d9a17bf40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\510603fe9bbeaca3c7fc777d9a17bf40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5c7cf2dabce6143f84474fd92a91bfcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\5c7cf2dabce6143f84474fd92a91bfcc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1330f81d00f3967524914a41f8704250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\1330f81d00f3967524914a41f8704250\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\23e671a5170c7df58ceae60116efa9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\23e671a5170c7df58ceae60116efa9d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a57eb098474133aa13a7fc2745b98ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\3a57eb098474133aa13a7fc2745b98ba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\70d359f7dbb7481045dac383e4f7c3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\70d359f7dbb7481045dac383e4f7c3a1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f14310fe454a173a96d038554a7bf950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\f14310fe454a173a96d038554a7bf950\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c801d1102ae41b93c59003fb046e30ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c801d1102ae41b93c59003fb046e30ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7fbabfa5ef9223816fa07a786a29b72b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\7fbabfa5ef9223816fa07a786a29b72b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cdb9c0dfb48214e84ca6f8b78acd303d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\cdb9c0dfb48214e84ca6f8b78acd303d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\021cfa96271057856517285e99ead375\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\021cfa96271057856517285e99ead375\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0b72713fc6d6ab537c082dbe7bab1244\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\0b72713fc6d6ab537c082dbe7bab1244\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eaae20800450a8070c36a7f0c52f9837\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\eaae20800450a8070c36a7f0c52f9837\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1fb8d7d6d0e8fe4793443d85f675b67b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\1fb8d7d6d0e8fe4793443d85f675b67b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\20633a23d8cd7af34fb13a015ae09a2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\20633a23d8cd7af34fb13a015ae09a2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\286daa05e0c8a204e8d696a43ef21eac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\286daa05e0c8a204e8d696a43ef21eac\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b409f22f7d42a3b078384c0252b677fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\b409f22f7d42a3b078384c0252b677fb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1844b234aef3648aa9c9c3ad2b393d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\1844b234aef3648aa9c9c3ad2b393d4a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b50940c34c50b06942596f5af573afa0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\b50940c34c50b06942596f5af573afa0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a67e7c8b46a1b587042e4b5b7500ab7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\a67e7c8b46a1b587042e4b5b7500ab7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a80ce22b972e860c48a33e6555b8d5ad\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\a80ce22b972e860c48a33e6555b8d5ad\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\FOTSO\AndroidStudioProjects\LocateMe\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:16.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-maps-16.1.0.aar\c35bc1487b716b31023d6b35a880a899\AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-base-16.0.1.aar\c69005e61d0a5645d3e76167c84cc3e5\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\play-services-basement-16.0.1.aar\edd627ffbeebdb96859e00099f433287\AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c15018ed1faef1c8652ecab2815e575d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\c15018ed1faef1c8652ecab2815e575d\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] C:\Users\FOTSO\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\def0615a408d7e8dc68b94a8b2d98589\AndroidManifest.xml:27:13-51

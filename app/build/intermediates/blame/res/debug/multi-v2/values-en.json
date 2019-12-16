@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\FOTSO\\AndroidStudioProjects\\LocateMe\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\FOTSO\\AndroidStudioProjects\\LocateMe\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "2,4,6,3,5,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "57,166,268,104,208,311",
+                        "endColumns": "45,40,41,60,58,63",
+                        "endOffsets": "98,202,305,160,262,370"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,101,142,184,245,304",
+                        "endColumns": "45,40,41,60,58,63",
+                        "endOffsets": "96,137,179,240,299,363"
+                    }
+                }
+            ]
+        }
+    ]
+}
